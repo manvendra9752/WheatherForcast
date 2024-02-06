@@ -1,0 +1,14 @@
+/* App.css */
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(to bottom, #87CEFA, #1E90FF);
+  background-image: url(https://imgs.search.brave.com/GnBGBj9DMXBK7i3nWq-dHTRqmvgnHgXat_t9oPeDcog/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9wbHVz/cG5nLmNvbS9pbWct/cG5nL2Nsb3Vkcy1w/bmctaGQtaW1hZ2Vz/LWhkLTI0cC1maWxt/LXYyLXByZS1rZXll/ZC1hbHBoYS1jaGFu/bmVsLWNsb3Vkcy1m/b3ItdmZ4LXN0b2Nr/LXZpZGVvLWZvb3Rh/Z2UtMTkyMC5wbmc);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
